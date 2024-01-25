@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hidden Manna Studios</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Hidden Manna Studios</h1>
+        <p>Your destination for quality 3D printing services</p>
+    </header>
+
+    <section id="services">
+        <h2>Our Services</h2>
+        <p>We offer a range of 3D printing services...</p>
+    </section>
+
+    <!-- Add more sections for Projects, About, Contact, etc. -->
+
+    <footer>
+        <p>&copy; 2024 Hidden Manna Studios</p>
+    </footer>
+</body>
+</html>
