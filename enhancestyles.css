@@ -1,0 +1,15 @@
+/* ... Previous styles ... */
+
+section {
+    background-color: #ecf0f1;
+    margin: 20px 0;
+    padding: 40px 0;
+}
+
+#projects, #about, #contact {
+    text-align: left;
+}
+
+/* ... More styles can be added as needed ... */
+
+/* ... Previous styles ... */
